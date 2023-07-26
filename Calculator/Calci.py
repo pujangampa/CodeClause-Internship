@@ -1,4 +1,6 @@
-#By : Pujan Gampa
+# Task 1
+# CodeClause Intern
+# By : Pujan Gampa
 
 from tkinter import *
 
